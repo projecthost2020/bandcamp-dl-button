@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bandcamp Download Button
 // @namespace    https://*.bandcamp.com/
-// @version      0.1
+// @version      2.0.0
 // @description  Add Download Button to tracks on Bandcamp
 // @author       You
 // @match        https://*.bandcamp.com/*
